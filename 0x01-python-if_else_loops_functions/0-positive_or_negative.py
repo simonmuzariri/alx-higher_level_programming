@@ -8,4 +8,3 @@ if number == 0:
     print("{} is zero".format(number))
 if number < 0:
     print("{} is negative".format(number))
-
